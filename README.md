@@ -1,23 +1,23 @@
-# ReduxSimpleStarter
+# React-ing with YouTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Monkeying Around with YouTube APIs using React
 
 ###Getting Started###
 
 There are two methods for getting started with this repo.
 
 ####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo over http, install dependencies, then start up with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone https://github.com/mikeneder/React-ing-with-YouTube.git
+	> cd React-ing-with-YouTube
 	> npm install
 	> npm start
 ```
 
 ####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/mikeneder/React-ing-with-YouTube/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install
